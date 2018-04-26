@@ -1,0 +1,57 @@
+{
+  "_from": "git+https://github.com/ticlaudeberube/ImgDownloader.git",
+  "_id": "cordova-plugin-imgdownloader@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-dqrfSosil0vQpf8YEcwI7Etkp5M=",
+  "_location": "/cordova-plugin-imgdownloader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/ticlaudeberube/ImgDownloader.git",
+    "rawSpec": "https://github.com/ticlaudeberube/ImgDownloader.git",
+    "saveSpec": "git+https://github.com/ticlaudeberube/ImgDownloader.git",
+    "fetchSpec": "https://github.com/ticlaudeberube/ImgDownloader.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ticlaudeberube/ImgDownloader.git#2ef590496eb973afde232156fa51285d01a72ddd",
+  "_spec": "https://github.com/ticlaudeberube/ImgDownloader.git",
+  "_where": "/Users/michaelwalter/Apps/Polytan/InfoArenaV1.2",
+  "author": {
+    "name": "Claude Berube",
+    "email": "claude.berube@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Nomia/ImgDownloader/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.ticlaudeberube.cordova.imgdownloader",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "This is a fork from ImgDowloader aiming to make it work with phonegap build",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/Nomia/ImgDownloader",
+  "keywords": [
+    "pgoto-gallery",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-imgdownloader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ticlaudeberube/ImgDownloader.git"
+  },
+  "version": "0.1.0"
+}
