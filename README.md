@@ -5,7 +5,7 @@ A phongap plugin that provides the functionality to download image files(from in
 
 Installation:
 ===
-    phonegap plugin add https://github.com/Nomia/ImgDownloader.git
+    phonegap plugin add https://github.com/kw-media/ImgDownloader.git
     
 Interface:
 ===
