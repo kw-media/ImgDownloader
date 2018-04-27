@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/ticlaudeberube/ImgDownloader.git",
+  "_from": "git+https://github.com/kw-media/ImgDownloader.git",
   "_id": "cordova-plugin-imgdownloader@0.1.0",
   "_inBundle": false,
   "_integrity": "sha1-dqrfSosil0vQpf8YEcwI7Etkp5M=",
@@ -7,25 +7,25 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/ticlaudeberube/ImgDownloader.git",
-    "rawSpec": "https://github.com/ticlaudeberube/ImgDownloader.git",
-    "saveSpec": "git+https://github.com/ticlaudeberube/ImgDownloader.git",
-    "fetchSpec": "https://github.com/ticlaudeberube/ImgDownloader.git",
+    "raw": "https://github.com/kw-media/ImgDownloader.git",
+    "rawSpec": "https://github.com/kw-media/ImgDownloader.git",
+    "saveSpec": "git+https://github.com/kw-media/ImgDownloader.git",
+    "fetchSpec": "https://github.com/kw-media/ImgDownloader.git",
     "gitCommittish": "master"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/ticlaudeberube/ImgDownloader.git#2ef590496eb973afde232156fa51285d01a72ddd",
-  "_spec": "https://github.com/ticlaudeberube/ImgDownloader.git",
+  "_resolved": "git+https://github.com/kw-media/ImgDownloader.git#2ef590496eb973afde232156fa51285d01a72ddd",
+  "_spec": "https://github.com/kw-media/ImgDownloader.git",
   "_where": "/Users/michaelwalter/Apps/Polytan/InfoArenaV1.2",
   "author": {
-    "name": "Claude Berube",
-    "email": "claude.berube@gmail.com"
+    "name": "Michael Walter",
+    "email": "michael.walter@kw-media.net"
   },
   "bugs": {
-    "url": "https://github.com/Nomia/ImgDownloader/issues"
+    "url": "https://github.com/kw-media/ImgDownloader/issues"
   },
   "bundleDependencies": false,
   "cordova": {
@@ -42,7 +42,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "homepage": "https://github.com/Nomia/ImgDownloader",
+  "homepage": "https://github.com/kw-media/ImgDownloader",
   "keywords": [
     "pgoto-gallery",
     "cordova-ios"
@@ -51,7 +51,7 @@
   "name": "cordova-plugin-imgdownloader",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ticlaudeberube/ImgDownloader.git"
+    "url": "git+https://github.com/kw-media/ImgDownloader.git"
   },
   "version": "0.1.0"
 }
